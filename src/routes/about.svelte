@@ -1,3 +1,8 @@
+<svelte:head>
+  <title>Speak Arabic - About</title>
+</svelte:head>
+
+
 <p>This app is meant to help anyone speak Arabic very quickly. We choose the Egyptian dialect for some reasons:</p>
 
 <ul>
