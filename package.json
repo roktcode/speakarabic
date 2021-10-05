@@ -4,9 +4,11 @@
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
-    "preview": "svelte-kit preview"
+    "preview": "svelte-kit preview",
+    "start": "node build/index.js"
   },
   "devDependencies": {
+    "@sveltejs/adapter-node": "^1.0.0-next.53",
     "@sveltejs/kit": "next",
     "svelte": "^3.42.6"
   },
