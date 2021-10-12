@@ -1,9 +1,22 @@
 <svelte:head>
-  <title>Speak Arabic - Contact</title>
+	<title>Speak Arabic - Contact</title>
 </svelte:head>
 
 <div class="links">
-  Instagram: <a target="_blank" href="https://instagram.com/inrokt">@inrokt</a>
-Twitter: <a target="_blank" href="https://twitter.com/roktmy">@roktmy</a>
-  Discord: <a href="/">Join here: https://discord.gg/44SyssSNpu</a>
+	<div>
+		Instagram: <a target="_blank" href="https://instagram.com/inrokt">@inrokt</a
+		>
+	</div>
+	<div>
+		Twitter: <a target="_blank" href="https://twitter.com/roktmy">@roktmy</a>
+	</div>
+	<div>
+		Discord: <a href="https://discord.gg/44SyssSNpu">Join here</a>
+	</div>
 </div>
+
+<style>
+  div {
+    margin-bottom: 1rem;
+  }
+</style>
