@@ -11,7 +11,7 @@
 		Twitter: <a target="_blank" href="https://twitter.com/roktmy">@roktmy</a>
 	</div>
 	<div>
-		Discord: <a href="https://discord.gg/44SyssSNpu">Join here</a>
+		Discord: <a href="https://discord.gg/YKx9csgZNs">Join here</a>
 	</div>
 </div>
 
